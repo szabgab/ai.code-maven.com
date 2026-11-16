@@ -1,0 +1,39 @@
+url: https://ai.code-maven.com
+site_name: AI Maven
+repo: https://github.com/szabgab/ai.code-maven.com
+branch: main
+link_to_source: true
+footer: "" #[AI Maven](https://ai.code-maven.com/)"
+
+tags:
+  title: Tags
+  description: Articles about AI
+
+archive:
+  title: Archive
+  description: Archive
+
+from:
+  name: Foo Bar
+  email: foo@bar.com
+
+show_related: true
+related_pages_title: Other pages
+
+authors:
+  - name: Gabor Szabo
+    nickname: szabgab
+    picture: szabgab.png
+
+navbar:
+  start:
+    - path: /
+      title: Home
+#    - path: /tags/
+#      title: Tags
+  end:
+    - path: /archive
+      title: Archive
+#    - path: /about
+#      title: About
+
