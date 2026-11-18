@@ -19,6 +19,9 @@ Software Engineer from big tech (Meta), Cyber startups (Token, Ironscales) and I
 
 40 minutes
 
+## Links and slides
+
+* [slides](https://media.code-maven.com/slides/Securing-the-Harness.pptx)
 * [weir](https://github.com/ralis-ai/weir)
 
 
