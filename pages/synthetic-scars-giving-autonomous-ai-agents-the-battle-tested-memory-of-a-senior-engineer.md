@@ -42,7 +42,7 @@ Randal's unique blend of technical expertise, writing talent, and engaging perso
 
 * [Why I Tell My AI Coding Agent: "Prefer Dart Over Python"](https://dev.to/gde/why-i-tell-my-ai-coding-agent-prefer-dart-over-python-1dbg)
 * [Synthetic Scar](https://syntheticscars.org/)
-* [Context 7](https://context7.com/_
+* [Context 7](https://context7.com/)
 
 * [Code Maven Live](https://live.code-maven.com/)
 * [AI Maven on LinkedIn](https://www.linkedin.com/showcase/ai-code-maven/posts/?viewAsMember=true)
